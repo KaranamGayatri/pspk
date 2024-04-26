@@ -1,0 +1,17 @@
+select {
+    width: 150PX;
+  }
+  button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+  }
+  button:hover {
+    background-color: #f10c0c;
+  }
+  *{
+    text-align: center;
+  }
+.container{
+  text-align: center;
+}
